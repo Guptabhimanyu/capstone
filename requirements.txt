@@ -145,6 +145,4 @@ websockets==11.0.1
 Werkzeug==2.2.3
 widgetsnbextension==3.6.0
 hnswlib==0.6.2
-pywin32
-
-
+pywin32==304
